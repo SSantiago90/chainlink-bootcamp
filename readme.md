@@ -1,7 +1,10 @@
 # ETHDenver 2022 Smart Contract Developer Bootcamp
 
 Set of excercises made during ETHDenver Bootcamp hosted by ChainLink on March 2022 👨‍💻
-(![ETHDenver 2022 Smart Contract Developer Bootcamp](https://raw.githubusercontent.com/SSantiago90/chainlink-bootcamp/master/preview.png))
+
+![ETHDenver 2022 Smart Contract Developer Bootcamp](https://raw.githubusercontent.com/SSantiago90/chainlink-bootcamp/master/preview.png)
+
+
 ## Instructions
 
 Given instructions found on this [doc](https://docs.google.com/document/d/e/2PACX-1vRMqvdbtMwWXX1MheWy52M8CUj7FhSuLVXWl9_fmshLoWw6OX8ovBV0P7-YCgigomSg3HsEgE4ZGx1b/pub).
